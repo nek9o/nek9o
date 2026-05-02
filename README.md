@@ -34,8 +34,8 @@ export const about = {
   // ! ||                  3. Links                  ||
   // ! ||--------------------------------------------||
 
-  links: {
-    // TODO
-  },
+  links: [
+    { label: 'Profile Site', url: 'https://nek9o.pages.dev' },
+  ],
 };
 ```
