@@ -8,10 +8,8 @@ export const about = {
   profile: {
     nameJp: "眠子",
     nameEn: "Neko",
-    bioJp: `やる気が出た時にやる
-安定するまでリポジトリ作り直ししがちなので注意`,
-    bioEn: `Do it when you feel motivated
-Be careful—you tend to end up rebuilding the repository until it stabilizes`
+    bioJp: `やる気が出た時にやる\n安定するまでリポジトリ作り直ししがちなので注意`,
+    bioEn: `Do it when you feel motivated\nBe careful—you tend to end up rebuilding the repository until it stabilizes`
   },
 
   // ! ||-----------------------------------------------||
