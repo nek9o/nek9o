@@ -28,7 +28,7 @@ Warning: I often remake repositories until everything settles down`,
     {
       name: "Portfolio Template",
       url: "https://github.com/nek9o/portfolio-template",
-      language: "Svelte",
+      language: "TypeScript",
       techStack: "SvelteKit",
     },
   ],
