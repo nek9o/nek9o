@@ -38,7 +38,10 @@ Warning: I often remake repositories until everything settles down`,
   // ! ||--------------------------------------------||
 
   links: [
-    { label: 'Profile Site', url: 'https://nek9o.pages.dev' },
+    {
+      label: 'Profile Site',
+      url: 'https://nek9o.pages.dev'
+    },
   ],
 };
 ```
